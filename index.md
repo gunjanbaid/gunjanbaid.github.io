@@ -18,7 +18,7 @@ I am currently working on a research project with [Professor Nir Yosef](https://
 and leading a [student team](http://dataconnect.berkeley.edu/connector_associates.html) for UC Berkeley's 
 Data Science Education Program. This fall, I will be at UC Berkeley for the 5th years M.S. program in Computer Science and will be advised by [Professor David Culler](https://people.eecs.berkeley.edu/~culler/).
 
-If you to talk, feel free to send me email me at <span class="rev">ude.yelekreb@diab_najnug</span>.
+If you want to talk, feel free to send me email me at <span class="rev">ude.yelekreb@diab_najnug</span>.
 
 <style type="text/css">
 	span.rev {
@@ -31,7 +31,7 @@ If you to talk, feel free to send me email me at <span class="rev">ude.yelekreb@
 <hr>
 <br>
 
-## Research
+## <a name="research"></a>Research
 # TRAPeS
 
 ![trapes](/assets/trapes.png)
@@ -49,7 +49,7 @@ The above image is from [this page](https://niryosef.wordpress.com/tools/).
 <hr>
 <br>
 
-## Teaching
+## <a name="teaching"></a> Teaching
 
 I have been a student instructor for multiple courses at UC Berkeley.
 You can find the results of my teaching evaluations 
