@@ -3,11 +3,9 @@ layout: page
 permalink: /resources/
 ---
 
-# Resources
+## Resources
 
-CS 88
-
-Guides
+# Guides
 <!-- had to use HTML here, markdown loop gave weird spacing -->
 <ul>
 {% for post in site.resources %}
@@ -17,7 +15,7 @@ Guides
 {% endfor %}
 </ul>
 
-Slides
+# Slides
 * [Dictionaries, ADTs Slides](https://docs.google.com/a/berkeley.edu/presentation/d/1eUxUG0tQFFLIVEX1P9lGjsqGFPgkDZDtiPiOTNZJPps/edit?usp=sharing)
 * [Midterm Review Slides](https://docs.google.com/a/berkeley.edu/presentation/d/1ohSibp_BEO8pj36xbSjtUyVz8YS6oO17RbGtNNHkda4/edit?usp=sharing)
 * [Sequences, Generators Slides](https://docs.google.com/a/berkeley.edu/presentation/d/16AWlaNHD838EB8gfOBkHTVptAfDNEmMU0gdDbGPmjmQ/edit?usp=sharing)
