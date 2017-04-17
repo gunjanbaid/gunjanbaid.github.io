@@ -65,7 +65,7 @@ I will be speaking at [JupyterDays Philly](http://jupyterday.blogs.brynmawr.edu/
 # Courses
 
 * CS 61A: Structure and Interpretation of Computer Programs 
-([Summer 2015](http://www-inst.eecs.berkeley.edu/~cs61a/su15/), [Fall 2015](http://www-inst.eecs.berkeley.edu/~cs61a/fa15/)) [Resources](/resources/)
+([Su15](http://www-inst.eecs.berkeley.edu/~cs61a/su15/), [Fa15](http://www-inst.eecs.berkeley.edu/~cs61a/fa15/)) ([Resources](/resources/))
 * CS 88: Computational Structures in Data Science 
-([Spring 2016](https://cs88-website.github.io/sp16), [Fall 2016](https://cs88-website.github.io))
-* DS 8: Faculty Short Course ([Summer 2016](http://data8.org/summer))
+([Sp16](https://cs88-website.github.io/sp16), [Fa16](https://cs88-website.github.io))
+* DS 8: Faculty Short Course ([Su16](http://data8.org/summer))

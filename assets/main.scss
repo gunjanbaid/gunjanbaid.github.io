@@ -25,23 +25,25 @@ body {
  * Links
  */
 a {
-  color: #004d4d;
-  text-decoration: none;
-
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
+  color: black;
 
   &:hover {
-    color: black;
-    text-decoration: underline;
-  }
-
-  .social-media-list &:hover {
+    color: #009999;
     text-decoration: none;
-
-    .username {
-      text-decoration: underline;
-    }
   }
+}
+
+
+/**
+ * Site header
+ */
+.site-header {
+  border-top: none;
+  padding: 5px;
+  border-bottom: 1px solid $grey-color-light;
+}
+
+hr {
+	border-top: 1px solid $grey-color-light;
+	border-bottom: none;
 }
