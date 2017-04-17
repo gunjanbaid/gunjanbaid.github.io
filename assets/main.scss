@@ -16,12 +16,16 @@ body {
 /**
  * Links
  */
-a {
+a, .site-title, .page-link {
   color: black;
 
   &:hover {
     color: #009999;
     text-decoration: none;
+  }
+
+  &:visited {
+    color: black;
   }
 }
 
