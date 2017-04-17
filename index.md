@@ -5,7 +5,6 @@
 layout: page
 ---
 
-
 ![me](/assets/me.jpg)
 
 <br>
@@ -19,7 +18,7 @@ I am currently working on a research project with [Professor Nir Yosef](https://
 and leading a [student team](http://dataconnect.berkeley.edu/connector_associates.html) for UC Berkeley's 
 Data Science Education Program. This fall, I will be at UC Berkeley for the 5th years M.S. program in Computer Science and will be advised by [Professor David Culler](https://people.eecs.berkeley.edu/~culler/).
 
-If you to talk, feel free to send me email me at <span class="rev">ude.yelekreb@diab_najnug</span>. You can also find me on [LinkedIn](https://www.linkedin.com/in/gunjanbaid/).
+If you to talk, feel free to send me email me at <span class="rev">ude.yelekreb@diab_najnug</span>.
 
 <style type="text/css">
 	span.rev {
@@ -29,9 +28,7 @@ If you to talk, feel free to send me email me at <span class="rev">ude.yelekreb@
 </style>
 
 <br>
-
-***
-
+<hr>
 <br>
 
 ## Research
@@ -49,9 +46,7 @@ I am working to extend the functionality of TRAPeS to single-end medium (~60bp) 
 The above image is from [this page](https://niryosef.wordpress.com/tools/).
 
 <br>
-
-***
-
+<hr>
 <br>
 
 ## Teaching
