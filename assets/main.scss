@@ -2,6 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@import "minima";
+
 /**
  * Basic styling
  */
@@ -14,7 +16,7 @@ body {
 /**
  * Links
  */
-a, .site-title, .page-link {
+a {
   color: black;
 
   &:hover {
@@ -24,6 +26,11 @@ a, .site-title, .page-link {
 
   &:visited {
     color: black;
+  }
+
+  &:visited:hover {
+	color: #009999;
+    text-decoration: none;
   }
 }
 
@@ -41,6 +48,3 @@ hr {
 	border-top: 1px solid $grey-color-light;
 	border-bottom: none;
 }
-
-@import "minima";
-
