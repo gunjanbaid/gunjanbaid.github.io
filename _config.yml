@@ -32,3 +32,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections:
+  resources:
+    output: true
+    permalink: /resources/:path/
