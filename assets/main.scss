@@ -15,24 +15,8 @@ body {
 /**
  * Links
  */
-a {
-  color: #129ea5;
-
-  &:hover {
-    color: #073f3f;
-    text-decoration: none;
-  }
-
-  &:visited {
-    color: #129ea5;
-  }
-
-  &:visited:hover {
-    color: #073f3f;
-    text-decoration: none;
-  }
-}
-
+a, a:link, a:hover, a:visited, a:active { text-decoration: none; color: #129ea5; }
+a:hover { color: black; }
 
 /**
  * Site header
@@ -41,25 +25,8 @@ a {
   border-top: none;
   padding: 5px;
   border-bottom: 1px solid $grey-color-light;
-
-  a {
-    color: #129ea5;
-
-    &:hover {
-      color: #073f3f;
-      text-decoration: none;
-    }
-
-    &:visited {
-      color: #129ea5;
-    }
-
-    &:visited:hover {
-      color: #073f3f;
-      text-decoration: none;
-    }
-  }
-
+  a:link, a:visited, a:active { color: #129ea5; }
+  a:hover { color: black; }
 }
 
 hr {
