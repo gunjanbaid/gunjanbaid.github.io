@@ -51,7 +51,7 @@ and [others](https://github.com/Calysto/metakernel/tree/master/metakernel/magics
 A commonly used one is `% matplotlib inline`, which is used to display figures properly in the notebooks. 
 Below are two magic commands that I found interesting.
 
-#### 2.2.1 `% activity`
+#### `% activity`
 
 [Example](https://athena.brynmawr.edu/jupyter/hub/dblank/public/Activity%20Magic.ipynb), 
 [Source](https://github.com/Calysto/metakernel/blob/master/metakernel/magics/activity_magic.py)
@@ -64,7 +64,7 @@ all student responses. Student responses are written to a file that instructors 
 Given the setup of  Berkeley's data science JupyterHubs (no shared filesystem), this command cannot 
 be used on those hubs directly. However, I still thought it was worth sharing.
 
-#### 2.2.2 `%% tutor`
+#### `%% tutor`
 
 [Example](https://athena.brynmawr.edu/jupyter/hub/dblank/public/Examples/Tutor%20Magic%20in%20IPython.ipynb), 
 [Source](https://github.com/Calysto/metakernel/blob/master/metakernel/magics/tutor_magic.py)
