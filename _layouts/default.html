@@ -13,9 +13,9 @@
       </div>
     </main>
 
-    {% if site.google_analytics and jekyll.environment == 'production' %}
-	{% include analytics.html %}
-	{% endif %}
+    {% if jekyll.environment == 'production' %}
+  	{% include analytics.html %}
+  	{% endif %}
 
   </body>
 
