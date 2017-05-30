@@ -60,9 +60,8 @@ In 2016, I received an Outstanding Undergraduate Teaching Award
 from the Computer Science Division at Spring commencement.
 In 2017, I received a [Campus Outstanding GSI Award](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/).
 
-In the past year, I have been involved with the [Data Science education program](http://data.berkeley.edu/education) as a student instructor and a tudent team](http://dataconnect.berkeley.edu/connector_associates.html) lead.
-I will be speaking at [JupyterDays Philly](http://jupyterday.blogs.brynmawr.edu/) in May 2017 and 
-[JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny) in August 2017 about the pedagogy of [Data 8](http://data8.org) and the [connector courses](http://data8.org/connector) in the program.
+In the past year, I have been involved with the [Data Science education program](http://data.berkeley.edu/education) as a student instructor and a [student team](http://dataconnect.berkeley.edu/connector_associates.html) lead.
+I spoke at [JupyterDayPhilly](http://jupyterday.blogs.brynmawr.edu/) in May 2017 and will be speaking at [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny) in August 2017 about the pedagogy of [Data 8](http://data8.org) and the [connector courses](http://data8.org/connector) in the program.
 
 # Courses
 
