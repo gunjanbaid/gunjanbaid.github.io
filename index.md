@@ -7,7 +7,7 @@ layout: page
 
 <br>
 
-![me](/assets/me.jpg)
+![me](/assets/images/me.jpg)
 
 <br>
 
@@ -36,7 +36,7 @@ If you want to talk, feel free to send me email me at <span class="rev">ude.yele
 ## <a name="research"></a>Research
 # TRAPeS
 
-![trapes](/assets/trapes.png)
+![trapes](/assets/images/trapes.png)
 
 I am currently working on a research project with [Professor Nir Yosef](https://niryosef.wordpress.com/)
 called [TRAPeS](https://github.com/YosefLab/TRAPeS) (TCR reconstruction algorithm for paired-end single cell). 

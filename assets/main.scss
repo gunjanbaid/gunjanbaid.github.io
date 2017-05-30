@@ -8,7 +8,6 @@
  * Basic styling
  */
 body {
-  color: #737373;
   font-weight: 300;
 }
 
@@ -17,19 +16,19 @@ body {
  * Links
  */
 a {
-  color: black;
+  color: #129ea5;
 
   &:hover {
-    color: #009999;
+    color: #073f3f;
     text-decoration: none;
   }
 
   &:visited {
-    color: black;
+    color: #129ea5;
   }
 
   &:visited:hover {
-	  color: #009999;
+    color: #073f3f;
     text-decoration: none;
   }
 }
@@ -44,22 +43,23 @@ a {
   border-bottom: 1px solid $grey-color-light;
 
   a {
-    color: black;
+    color: #129ea5;
 
     &:hover {
-      color: #009999;
+      color: #073f3f;
       text-decoration: none;
     }
 
     &:visited {
-      color: black;
+      color: #129ea5;
     }
 
     &:visited:hover {
-      color: #009999;
+      color: #073f3f;
       text-decoration: none;
     }
   }
+
 }
 
 hr {
