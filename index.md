@@ -18,7 +18,8 @@ computational solutions for problems in biology.
 
 I am currently working on a research project with [Professor Nir Yosef](https://niryosef.wordpress.com/)
 and leading a [student team](http://dataconnect.berkeley.edu/connector_associates.html) for UC Berkeley's 
-Data Science Education Program. This fall, I will be at UC Berkeley for the 5th years M.S. program in Computer Science and will be advised by [Professor David Culler](https://people.eecs.berkeley.edu/~culler/).
+Data Science Education Program. This fall, I will be at UC Berkeley for the 5th years M.S. program in Computer Science 
+and will be working with the Big Data Genomics [group](http://bdgenomics.org/).
 
 If you want to talk, feel free to send me email me at <span class="rev">ude.yelekreb@diab_najnug</span>.
 
