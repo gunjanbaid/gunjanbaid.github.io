@@ -11,7 +11,7 @@ layout: page
 
 <br>
 
-I am an MS student in computer science at UC Berkeley. I completed my undergraduate study at UC Berkeley in December 2016 with a double major in computer science and molecular and cell biology (biochemistry emphasis). I am currently doing research with the [Big Data Genomics group](http://bdgenomics.org/) in [RISELab](https://rise.cs.berkeley.edu) and am advised by [Prof. Anthony Joseph](). I am also involved with the Data Science Education Program at UC Berkeley as a technical lead.
+I am an MS student in computer science at UC Berkeley. I completed my undergraduate study at UC Berkeley in December 2016 with a double major in computer science and molecular and cell biology (biochemistry emphasis). I am currently doing research with the [Big Data Genomics group](http://bdgenomics.org/) in [RISELab](https://rise.cs.berkeley.edu) and am advised by [Prof. Anthony Joseph](). I am also involved with the Data Science Education Program at UC Berkeley as a technical lead for connector courses.
 
 If you want to talk, feel free to send me email me at <span class="rev">ude.yelekreb@diab_najnug</span>.
 

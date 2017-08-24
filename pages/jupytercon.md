@@ -1,6 +1,6 @@
 ## JupyterCon 2017 Follow-Up
 
-This page is a follow-up to a [talk](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/60131) at JupyterCon 2017, *Data science at UC Berkeley: 2,000 undergraduates, 50 majors, no command line*. My co-speaker, Vinitra Swamy, and I hope you enjoyed the talk and are glad that you want to learn more! Below are some links to pages and technologies mentioned in the talk.
+This page is a follow-up to a [talk](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/60131) at JupyterCon 2017, *Data science at UC Berkeley: 2,000 undergraduates, 50 majors, no command line*. My co-speaker, [Vinitra Swamy](vinitra.github.io), and I hope you enjoyed the talk and are glad that you want to learn more! Below are some links to pages and technologies mentioned in the talk.
 
 # Links
 
@@ -25,7 +25,7 @@ This page is a follow-up to a [talk](https://conferences.oreilly.com/jupyter/jup
 If you are interested in setting up a JupyterHub, we recommend that you read the [guide](zero-to-jupyterhub-with-kubernetes.readthedocs.io) on JupyterHub deployment. Instructions on using other tools are provided on the pages linked above. Feel free to reach out if you have any questions.
 
 # Getting in touch
-If you have any feedback, questions, or just want to say hello, you can contact me Gunjan at <span class="rev">ude.yelekreb@diab_najnug</span>.
+If you have any feedback, questions, or just want to say hello, you can contact us at <span class="rev">ude.yelekreb@diab_najnug</span> and vinitra@berkeley.edu.
 
 <style type="text/css">
 	span.rev {
