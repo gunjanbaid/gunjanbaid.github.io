@@ -14,7 +14,7 @@ This page is a follow-up to a [talk](https://conferences.oreilly.com/jupyter/jup
 * [`gitautosync` repo](https://github.com/data-8/gitautosync) - interact links
 * [Interactive Textbook](https://inferentialthinking.com)
 * [OK](https://okpy.org) - autograding, submission
-* [Guide](zero-to-jupyterhub-with-kubernetes.readthedocs.io) - deploying JupyterHub
+* [Guide](https://zero-to-jupyterhub-with-kubernetes.readthedocs.io) - deploying JupyterHub
 
 #### Related JupyterCon Events
 * [Meet the Expert session with Gunjan](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/63084)
