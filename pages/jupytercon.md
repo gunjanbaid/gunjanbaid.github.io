@@ -11,7 +11,7 @@ This page is a follow-up to a [talk](https://conferences.oreilly.com/jupyter/jup
 * [Modules](http://data.berkeley.edu/education/modules)
 
 #### Tools
-* [`gitautosync` repo](https://github.com/data-8) - interact links
+* [`gitautosync` repo](https://github.com/data-8/gitautosync) - interact links
 * [Interactive Textbook](https://inferentialthinking.com)
 * [OK](https://okpy.org) - autograding, submission
 * [Guide](zero-to-jupyterhub-with-kubernetes.readthedocs.io) - deploying JupyterHub
