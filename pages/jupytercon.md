@@ -5,8 +5,8 @@ This page is a follow-up to a [talk](https://conferences.oreilly.com/jupyter/jup
 # Links
 
 #### General
-* [Program website](https://data.berkeley.edu/)
-* [Data 8 course site](https://data8.org/)
+* [Program website](http://data.berkeley.edu/)
+* [Data 8 course site](http://data8.org/)
 * [Connector courses](https://data8.org/connector)
 * [Modules](http://data.berkeley.edu/education/modules)
 
