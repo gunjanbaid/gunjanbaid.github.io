@@ -37,3 +37,6 @@ collections:
   resources:
     output: true
     permalink: /resources/:path/
+  pages:
+    output: true
+    permalink: /pages/:path/
