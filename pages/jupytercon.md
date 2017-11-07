@@ -5,16 +5,16 @@ This page is a follow-up to a [talk](https://conferences.oreilly.com/jupyter/jup
 # Links
 
 #### General
-* [Program website](https://data.berkeley.edu/)
-* [Data 8 course site](https://data8.org/)
+* [Program website](http://data.berkeley.edu/)
+* [Data 8 course site](http://data8.org/)
 * [Connector courses](https://data8.org/connector)
 * [Modules](http://data.berkeley.edu/education/modules)
 
 #### Tools
-* [`gitautosync` repo](https://github.com/data-8) - interact links
+* [`gitautosync` repo](https://github.com/data-8/gitautosync) - interact links
 * [Interactive Textbook](https://inferentialthinking.com)
 * [OK](https://okpy.org) - autograding, submission
-* [Guide](zero-to-jupyterhub-with-kubernetes.readthedocs.io) - deploying JupyterHub
+* [Guide](https://zero-to-jupyterhub-with-kubernetes.readthedocs.io) - deploying JupyterHub
 
 #### Related JupyterCon Events
 * [Meet the Expert session with Gunjan](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/63084)
