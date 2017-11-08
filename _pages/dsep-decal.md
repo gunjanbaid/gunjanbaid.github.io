@@ -76,7 +76,7 @@ All done!
 * [Interact Link Generator](https://url-to-interact.herokuapp.com) - quickly generate interact links from GitHub URLs
 * [`nbgitpuller` repo](https://github.com/data-8/nbgitpuller) - extension needed to support interact links
 * [OK](https://okpy.org) - autograding, submission
-* [Connector Guide](https://data8.org/connector-instructors) - contains some general information that may be useful for modules as well
+* [Connector Guide](http://data8.org/connector-instructors) - contains some general information that may be useful for modules as well
 * [Jupyter Deployment Guide](https://zero-to-jupyterhub-with-kubernetes.readthedocs.io) - deploying JupyterHub
 
 ### Slides
