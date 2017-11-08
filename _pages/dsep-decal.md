@@ -59,7 +59,7 @@ The purpose of this lab is to give you practice with creating interact links, se
 1. Add code to submit the assignment. This is the code under **Submit to OKpy** in the reference files.
 <br>
 
-1. Run all tests, and submit the notebook. If submission is successfulyou will see output that looks something like this in your notebook: 
+1. Run all tests, and submit the notebook. If submission is successful, you should see output that looks something like this in your notebook: 
 
 	```
 	Saving notebook... Saved 'hw02.ipynb'.
