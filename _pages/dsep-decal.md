@@ -71,7 +71,6 @@ The purpose of this lab is to give you practice with creating interact links, se
 
 All done!
 
-<br>
 ### Links
 
 * [Interact Link Generator](https://url-to-interact.herokuapp.com) - quickly generate interact links from GitHub URLs
@@ -80,7 +79,6 @@ All done!
 * [Connector Guide](https://data8.org/connector-instructors) - contains some general information that may be useful for modules as well
 * [Jupyter Deployment Guide](https://zero-to-jupyterhub-with-kubernetes.readthedocs.io) - deploying JupyterHub
 
-<br>
 ### Slides
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCTC7WR-d9KRDe0DUfJGOef3lSbaj8wiC8Rc9GeG_UvB4FH71fLTny4LN5bLPsaFtS_hOqOea-mkbZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
