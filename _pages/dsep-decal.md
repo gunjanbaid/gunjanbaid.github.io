@@ -47,7 +47,7 @@ The purpose of this lab is to give you practice with creating interact links, se
 	bar = 20
 	```
 
-1. Once you have written some code in `module1.ipynb` file, set up two tests for this code in the `q1.py` and `q2.py` files. Copy and paste the contents of the reference files into `q1.py` and `q2.py`. Then, modify [lines 8 and 9](https://github.com/gunjanbaid/course-repo-example/blob/master/fa17/hw/hw02/tests/q2.py#L9) to match the code you wrote in `module1.ipynb`. For instructional purposes, please make sure to change the notebook code and the tests, rather than just using the reference files as is.
+1. Once you have written some code in `module1.ipynb` file, set up two tests for this code in the `q1.py` and `q2.py` files. Copy and paste the contents of the reference files into `q1.py` and `q2.py`. Then, modify [lines 9 and 10](https://github.com/gunjanbaid/course-repo-example/blob/master/fa17/hw/hw02/tests/q2.py#L9) to match the code you wrote in `module1.ipynb`. For instructional purposes, please make sure to change the notebook code and the tests, rather than just using the reference files as is.
 <br>
 
 1. Restart your kernel, and run the OK setup code again. It should no longer error. 
