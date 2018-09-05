@@ -3,7 +3,7 @@ layout: page
 title: All Pages
 ---
 
-## Pages
+#### Pages
 
 <!-- had to use HTML here, markdown loop gave weird spacing -->
 <ul>
