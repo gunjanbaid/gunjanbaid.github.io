@@ -5,11 +5,7 @@
 layout: page
 ---
 
-<br>
-
 ![me](/assets/images/me.jpg)
-
-<br>
 
 I am an engineer and researcher interested in applying machine learning to problems in health. This November, I will be joining the [Google Brain genomics team](https://ai.google/research/teams/brain/healthcare-biosciences) as a software engineer on the [DeepVariant](https://github.com/google/deepvariant) project. DeepVariant is an analysis pipeline that uses neural networks to idenitify genetic variants from DNA sequencing data. 
 
