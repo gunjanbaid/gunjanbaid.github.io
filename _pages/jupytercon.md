@@ -36,6 +36,10 @@ If you have any feedback, questions, or just want to say hello, you can contact 
 
 If you are interested in setting up a JupyterHub, we recommend that you read the guide on JupyterHub deployment. Instructions on using other tools are provided on the pages linked above. Feel free to reach out if you have any questions.
 
+### Video
+
+<iframe width="100%" height="389" src="https://www.youtube.com/embed/wmSHbdDKFGQ?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Slides
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTetg2DcZZtUoZWEJjma1iyY-8657H9H99LzfW6PHxLp-kg_5O6TEtUh4TG_V59BfhXZdlOBX9frRVL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
