@@ -7,7 +7,7 @@ layout: page
 
 ![me](/assets/images/me.jpg)
 
-I am an engineer and researcher interested in applying machine learning to problems in health. This November, I will be joining the [Google Brain genomics team](https://ai.google/research/teams/brain/healthcare-biosciences) as a software engineer on the [DeepVariant](https://github.com/google/deepvariant) project. DeepVariant is an analysis pipeline that uses neural networks to idenitify genetic variants from DNA sequencing data. 
+I am an engineer and researcher interested in applying machine learning to problems in health. Currently, I am part of the [Google Brain Genomics team](https://ai.google/research/teams/brain/healthcare-biosciences), and I work on the [DeepVariant](https://github.com/google/deepvariant) project. DeepVariant is an analysis pipeline that uses neural networks to idenitify genetic variants from DNA sequencing data. 
 
 Previously, I was a student at UC Berkeley, where I received an M.S. in computer science and a B.A. in computer science and molecular and cell biology (biochemistry emphasis). While at Berkeley, I was part of the [Big Data Genomics](http://bdgenomics.org/) research group in [RISELab](https://rise.cs.berkeley.edu). I was advised by Prof. Anthony Joseph and worked closely with Prof. Joseph Gonzalez and Prof. Nir Yosef. You can find my Master's thesis, *An Attention-Based Model for Transcription Factor Binding Site Prediction*, [here](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-83.html).
 
