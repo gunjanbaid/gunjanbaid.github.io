@@ -8,9 +8,11 @@ layout: page
 <!-- had to use HTML here, markdown loop gave weird spacing -->
 <ul>
 {% for post in site.resources %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-  </li>
+	{% if post.title != 'All Resources' %}
+		<li>
+			<a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+		</li>
+	{% endif %}
 {% endfor %}
 </ul>
 

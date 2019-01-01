@@ -14,4 +14,7 @@ title: All Pages
   		</li>
   	{% endif %}
 {% endfor %}
+	<li>
+		<a href="{{ site.baseurl }}/resources/all-resources">Educational Guides and Resources</a>
+	</li>
 </ul>
