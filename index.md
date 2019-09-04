@@ -12,7 +12,7 @@ I am an engineer and researcher interested in applying machine learning to probl
 Previously, I was a student at UC Berkeley, where I received an M.S. in computer science and a B.A. in computer science and molecular and cell biology (biochemistry emphasis). While at Berkeley, I was part of the [Big Data Genomics](http://bdgenomics.org/) research group in [RISELab](https://rise.cs.berkeley.edu). I was advised by Prof. Anthony Joseph and worked closely with Prof. Joseph Gonzalez and Prof. Nir Yosef. You can find my Master's thesis, *An Attention-Based Model for Transcription Factor Binding Site Prediction*, [here](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-83.html).
 
 
-Feel free to reach out to me at <span class="rev">ude.yelekreb@diab_najnug</span>.
+Feel free to reach out to me at <span class="rev">moc.liamg@6diabnajnug</span>.
 
 <style type="text/css">
 	span.rev {
